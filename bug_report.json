@@ -1,0 +1,12 @@
+{
+  "Title": "Submit order button not working",
+"Playback steps": [
+"Open site",
+"Click on the link",
+"Scroll to the field",
+"Enter a value in the field",
+"Try to click the send order button"
+  ]
+"Actual result": "The button is disabled",
+"Expected result": "The button is pressed, you can place an order"
+}
