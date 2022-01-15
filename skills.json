@@ -1,0 +1,24 @@
+{
+"name": "Siarhei",
+"age": 30,
+"profession": "QA engineer",
+"skills": [
+"basic theory of testing",
+"knowledges about client-server acchitecture",
+"knowledges about HTTP request methods to the server",
+"knowledges about HTTP server response codes",
+"knowledges about Structures of HTTP requests and responses",
+"knowledges about JSON and XML",
+"API testing with Postman",
+"Removing and reading logs from an external server",
+"Sniffing http web traffic with Charles and Fiddler",
+"Dev Tools for web browsers",
+"Mobile testing",
+"Basics SQL",
+"Postgres database",
+"Redis non-relational database",
+"Load testing in Jmeter",
+"Scrum Development Methodology",
+"Knowleges about command line"
+]
+}
